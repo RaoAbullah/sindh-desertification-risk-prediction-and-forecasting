@@ -231,17 +231,28 @@ npm run dev
 
 ---
 
+## 👥 Authors & Core Leadership
+
+This project was conceived, researched, engineered, and documented as an equal co-authored partnership (50/50 contribution):
+
+- **Rao Abdullah** — Co-Lead Researcher & Core Systems Architect ([@RaoAbullah](https://github.com/RaoAbullah))
+- **Ahmed Faraz Shaikh** — Co-Lead Researcher & Machine Learning Engineer ([@ahmedfarazsyk](https://github.com/ahmedfarazsyk))
+
+*For detailed module ownership and technical breakdowns, see [CONTRIBUTORS.md](file:///D:/FYP_PROG/CONTRIBUTORS.md).*
+
+---
+
 ## 📜 Citation & Academic Use
 
 If you use this framework, models, or datasets in your academic research, please cite:
 
 ```bibtex
-@misc{faraz2026stafdrs,
-  author = {Ahmed Faraz and Contributors},
-  title = {STAFDRS: Spatio-Temporal AI Framework for Sindh Desertification Risk Prediction and Forecasting},
-  year = {2026},
-  publisher = {GitHub},
-  howpublished = {\url{https://github.com/ahmedfarazsyk/sindh-desertification-risk-prediction-and-forecasting}}
+@misc{abdullah_faraz_2026_stafdrs,
+  author       = {Rao Abdullah and Ahmed Faraz Shaikh},
+  title        = {STAFDRS: Spatio-Temporal AI Framework for Sindh Desertification Risk Prediction and Forecasting},
+  year         = {2026},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/RaoAbullah/sindh-desertification-risk-prediction-and-forecasting}}
 }
 ```
 

@@ -1,9 +1,13 @@
 [project]
 name = "desertification-api"
 version = "0.1.0"
-description = "Add your description here"
+description = "FastAPI backend for Sindh Desertification Risk Prediction and Forecasting"
 readme = "README.md"
 requires-python = ">=3.12"
+authors = [
+    { name = "Rao Abdullah", email = "raoabdullah@users.noreply.github.com" },
+    { name = "Ahmed Faraz Shaikh", email = "shaikhahmedfaraz64@gmail.com" }
+]
 dependencies = [
     "earthengine-api>=1.7.25",
     "fastapi>=0.136.1",

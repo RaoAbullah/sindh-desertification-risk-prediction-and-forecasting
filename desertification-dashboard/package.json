@@ -2,6 +2,10 @@
   "name": "desertification-dashboard",
   "version": "0.1.0",
   "private": true,
+  "contributors": [
+    "Rao Abdullah <https://github.com/RaoAbullah>",
+    "Ahmed Faraz Shaikh <https://github.com/ahmedfarazsyk>"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",

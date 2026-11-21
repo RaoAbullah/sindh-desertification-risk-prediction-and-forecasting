@@ -23,6 +23,8 @@ This directory contains the academic research manuscripts, Final Year Project (F
 ## 🎓 Academic Abstract & Research Novelty
 
 > **Title:** Spatio-Temporal AI Framework for Sindh Desertification Risk Prediction and Forecasting (STAFDRS)  
+> **Authors:** Rao Abdullah ([@RaoAbullah](https://github.com/RaoAbullah)) and Ahmed Faraz Shaikh ([@ahmedfarazsyk](https://github.com/ahmedfarazsyk))  
+> **Affiliation:** Final Year Project, Department of Computer Science & Software Engineering  
 > **Domain:** Geospatial Artificial Intelligence, Environmental Remote Sensing, Climate Change Adaptation  
 
 ### Abstract Overview
